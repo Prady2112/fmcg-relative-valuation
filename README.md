@@ -53,6 +53,3 @@ Company financials sourced from Screener.in, compiled from audited consolidated 
 
 This model uses simplified balance sheet and cash flow assumptions (e.g., non-core investments and other liabilities held flat or estimated) appropriate for a peer benchmarking exercise, not a full sell-side model. Two peer companies (Godrej Consumer, Marico) use estimated EBITDA margins where precise disclosure was not available; these are flagged in the workbook. All projections are illustrative and based on the stated assumptions, which can be adjusted in the model.
 
-## Disclaimer
-
-This project was prepared for educational and portfolio purposes only and does not constitute investment advice.
