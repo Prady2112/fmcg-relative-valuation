@@ -1,0 +1,3 @@
+Place your Britannia 3-statement financial model Excel file (.xlsx) in this directory.
+
+The README assumes the file will be named something like `Britannia_3_Statement_Model.xlsx`.
